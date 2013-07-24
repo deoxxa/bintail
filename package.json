@@ -1,6 +1,6 @@
 {
   "name": "bintail",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Like tail -f, but binary-safe!",
   "main": "bintail.js",
   "repository": {
